@@ -47,7 +47,7 @@ class basedesk():
         self.root.geometry("%sx%s+%s+%s" % (winWidth, winHeight, x, y))
         self.root.title("DOI查询器")
         self.root.iconbitmap('tmp.ico')
-        # os.remove("tmp.ico")
+        os.remove("tmp.ico")
 
         self.root.maxsize(1000, 600)
         self.root.minsize(500, 200)
