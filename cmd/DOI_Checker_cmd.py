@@ -11,7 +11,7 @@ url1 = 'https://content.iospress.com/articles/international-journal-of-applied-e
 url2 = 'https://doi.org/10.3233/JAE-209356'
 url3 = 'https://content.iospress.com/journals/international-journal-of-applied-electromagnetics-and-mechanics/Pre-press/Pre-press'
 
-
+# 查询DOI是否生效
 def cheack(url):
     res = requests.get(url)
     res.encoding = 'utf-8'
@@ -19,6 +19,7 @@ def cheack(url):
     print(soup.title.text)
     return soup.title.text
 
+# 查询该期刊网站最新的文章名
 def cheack1(url):
     res = requests.get(url)
     res.encoding = 'utf-8'
