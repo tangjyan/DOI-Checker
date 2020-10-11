@@ -18,3 +18,6 @@ click the button once, the software checks it once.
 The user can set a check cycle, and the software will scanning it automatically at intervals.
 
 <div align=center><img src="https://raw.githubusercontent.com/S-Kee/DOI-Checker/master/GUI/screenshot_DOI_checker_GUI_auto.png" width="452" height="230" alt="screenshot_DOI_checker_GUI_auto"></div>
+
+
+test for branch.
