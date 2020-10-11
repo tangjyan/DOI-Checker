@@ -4,6 +4,7 @@ DOI checker is a tool for the author waiting paper publication by check the DOI 
 # CMD pattern
 CMD pattern runs in the terminal.\
 ![GOI_Checker_cmd](https://github.com/S-Kee/DOI-Checker/blob/master/cmd/screenshot_DOI_checker_cmd.png)
+<div align=center><img width="400" height="300" src="https://github.com/S-Kee/DOI-Checker/blob/master/cmd/screenshot_DOI_checker_cmd.png"></div>
 
 # GUI pattern
 GUI pattern has two patterns, click check and auto check.
