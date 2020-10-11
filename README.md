@@ -13,4 +13,4 @@ click the button once, the software checks it once.
 ### Auto check
 The user can set a check cycle, and the software will scanning it automatically at intervals.
 
-<div align=center><img src="https://github.com/S-Kee/DOI-Checker/blob/master/GUI/screenshot_DOI_checker_GUI_auto.png" width="400" height="300" alt="screenshot_DOI_checker_cmd"></div>
+<div align=center><img src="https://github.com/S-Kee/DOI-Checker/blob/master/GUI/screenshot_DOI_checker_GUI_auto.png" width="450" height="200" alt="screenshot_DOI_checker_cmd"></div>
