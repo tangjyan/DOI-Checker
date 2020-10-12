@@ -32,6 +32,7 @@ def cheack1(url):
 
 def timer(n):
     i=1
+    ch11=''
     while True:
         print('第'+str(i)+'次---'+datetime.now().strftime("%H:%M") +
               '---------')  # "%H:%M:%S"
