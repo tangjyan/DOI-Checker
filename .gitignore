@@ -8,5 +8,6 @@ Desktop.ini
 *.so
 *.egg
 *.egg-info
+.vscode
 dist
 build
